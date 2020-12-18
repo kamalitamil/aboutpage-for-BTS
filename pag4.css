@@ -1,0 +1,39 @@
+html{
+    background-image: url("bts.jpg");
+        
+}
+ul{
+    list-style-type:none;
+    margin:0;
+    padding:0;    
+    
+
+}
+li{
+    float:left;
+    border-right: 2px solid #64164a;
+
+    
+}
+li:last-child{
+    border:none;
+}
+ a{
+    color:rgb(224, 28, 215);
+    font-size: 40px;
+    text-align:center ;
+    padding:20px 90px;
+
+}
+a:hover{
+    color:purple;
+}
+footer{
+    color:rgba(216, 23, 184, 0.808);
+    
+    font-size:100px;
+    position:absolute;
+    bottom:0;
+    left:43%;  
+    
+}
